@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Geo Quiz</string>
+    <string name="capital_of_australia">Canberra is the capital of Australia</string>
+    <string name="true_text">True</string>
+    <string name="false_text">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button_string">Next</string>
+    <string name="question_america">The civil war was 1861 to 1866</string>
+    <string name="question_japan">The Japanese national bird is a red pheasant</string>
+    <string name="question_norway">The worlds longest road tunnel is in Norway</string>
+    <string name="question_cambodia">Cambodia\'s most important festival is Water festival</string>
+    <string name="previous_button_text">Previous</string>
+
+</resources>
